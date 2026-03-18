@@ -1,2 +1,8 @@
-# Multimodality_image_project
-processing image using llm
+# Getting Started
+Install the dependencies and run the project
+```
+npm install
+npm start
+```
+
+Head over to https://vitejs.dev/ to learn more about configuring vite
